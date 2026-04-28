@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+.env
+.DS_Store
+
+# Ignore generated reports (if any, adjust as needed)
+relatorios/
+*.log
